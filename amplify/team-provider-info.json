@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "aws22b0404c": {}
+      },
+      "api": {
+        "aws": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
